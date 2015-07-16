@@ -1,0 +1,11 @@
+.block .health {
+	-fx-font-size: 11;
+	-fx-text-fill: wheat;
+}
+.block .type {
+	-fx-font-size: 13;
+	-fx-font-weight: bold;
+}
+.block .status {
+	-fx-font-size: 8;
+}
